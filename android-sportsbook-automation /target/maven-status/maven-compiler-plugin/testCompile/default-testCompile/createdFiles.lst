@@ -1,0 +1,16 @@
+mobile/runner/TestRunner.class
+mobile/pages/KYCPage.class
+mobile/steps/RegistrationSteps.class
+mobile/utils/ConfigReader.class
+mobile/steps/Hooks.class
+mobile/pages/SignUpPage.class
+mobile/utils/DesiredCapabilitiesUtils.class
+mobile/pages/StateToBetInPage.class
+mobile/pages/NewOrOldUserPage.class
+mobile/pages/LoginPage.class
+mobile/steps/LoginSteps.class
+mobile/pages/PageObject.class
+mobile/pages/VerificationPage.class
+mobile/pages/HomePage.class
+mobile/steps/MobileCommonSteps.class
+mobile/utils/HelperUtils.class

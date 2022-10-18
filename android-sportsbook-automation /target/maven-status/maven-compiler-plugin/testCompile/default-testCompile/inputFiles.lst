@@ -1,0 +1,16 @@
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/StateToBetInPage.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/VerificationPage.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/steps/RegistrationSteps.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/LoginPage.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/runner/TestRunner.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/steps/LoginSteps.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/SignUpPage.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/steps/MobileCommonSteps.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/utils/ConfigReader.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/steps/Hooks.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/utils/DesiredCapabilitiesUtils.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/utils/HelperUtils.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/PageObject.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/NewOrOldUserPage.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/HomePage.java
+/Users/dajveechols/AutomationDevelopment/android-sportsbook-automation /src/test/java/mobile/pages/KYCPage.java
